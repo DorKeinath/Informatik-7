@@ -1,4 +1,6 @@
-My Awesome Book
+Unterrichtsstunden im Fach ITG
 =======
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Unterrichtsstunden und -einheiten, die ich für das Fach ITG empfehlen kann. Ich habe Sie in der Klassenstufe 7 durchgeführt.
+
+Gerne kannst du Kommentare machen, oder direkt mitarbeiten.
