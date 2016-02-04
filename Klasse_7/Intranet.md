@@ -8,3 +8,6 @@
 * Behandelte Blätter im Schnellhefter oder in einer Abteilung in einem Ordner mitbringen
 
 # Namensschilder
+* Was braucht man, um mit dem PC ein Namensschild zu erstellen?
+    * Peripheriegeräte
+        * 
