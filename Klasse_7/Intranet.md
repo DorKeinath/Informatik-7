@@ -16,7 +16,11 @@
         * Drucker (Drucker-Arten, Funktionsweisen, Vor- und Nachteile)
         * [Kabelanschlüsse] (Datenübertragung: Dualsystem)
         * 
-        * 
+    * Betriebssystem, Software
+        * Writer
+            * Schriftart, Größe, Farben
+            * Fontwork
+        * Bilder von openclipart.org
 [Tastatur]: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/German-T2-Keyboard-Prototype-May-2012.jpg/1024px-German-T2-Keyboard-Prototype-May-2012.jpg
 [Kabelanschlüsse]: http://www.computerbild.de/fotos/USB-Stecker-und-die-wichtigsten-externen-PC-Anschluesse-4402031.html#1
 
