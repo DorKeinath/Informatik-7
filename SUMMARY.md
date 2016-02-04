@@ -1,4 +1,4 @@
 # Inhalt
 
 * [Einführung](README.md)
-* [Intranet](Klasse_7/Intranet.md)
+* [Intranet](Klasse_7/Namensschilder_und_Intranet.md)
