@@ -17,6 +17,7 @@
         * [Kabelanschlüsse] (Datenübertragung: Dualsystem)
         * 
     * Betriebssystem, Software
+        * Neue Datei in home erstellen.
         * Writer
             * Schriftart, Größe, Farben
             * Fontwork
