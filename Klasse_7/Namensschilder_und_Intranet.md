@@ -12,11 +12,11 @@ Namensschilder und Intranet
 ## Namensschilder
 * Was braucht man, um mit dem PC ein Namensschild zu erstellen?
     * Peripheriegeräte
-        * Maus        
+        * Maus (Arten, Vor- und Nachteile)       
         * [Tastatur]
+        * Bildschirm (Arten, Sitzverhalten: Höhe des Bildschirms, Augen-Verhalten)
         * Drucker (Drucker-Arten, Funktionsweisen, Vor- und Nachteile)
         * [Kabelanschlüsse] (Datenübertragung: Dualsystem)
-        * 
     * Betriebssystem, Software
         * Neue Datei in home erstellen.
         * Writer
@@ -29,3 +29,24 @@ Namensschilder und Intranet
 [openclipart]: https://openclipart.org/
 
 ## Intranet
+### Bridge
+Für die Bilder habt ihr das Internet benutzt. Was habt ihr gebraucht, um ins Internet zu kommen?
+* Elektrische Energie
+* LAN
+* Modem
+
+### Rundgang durch das Schulhaus
+* Switche
+* Server
+* Router
+ 
+### Wieder im PC-Raum
+* Anmeldung am Server
+* Projektordner
+* Erstellen eines eigenen Unterordners
+* Speichern eines Links (bzw. einer Verknüpfung)
+* "Was könnt ihr mit dem PC und im Internet tun?"
+    * Schüler speichern Links zu Internetseiten
+    * Schüler zeigen, was sie mit dem PC können und präsentieren ihre Internetseiten.
+    * Reflexion darüber, welche Funktion das Internet für sie hat.
+
