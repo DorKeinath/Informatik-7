@@ -12,5 +12,9 @@
     * Peripheriegeräte
         * Tastatur
         * Maus
-        * Drucker
-        * Kabelanschlüsse
+        * Drucker (Drucker-Arten, Funktionsweisen, Vor- und Nachteile)
+        * [Kabelanschlüsse][1] (Datenübertragung: Dualsystem)
+        * 
+        * 
+[1]: http://www.computerbild.de/fotos/USB-Stecker-und-die-wichtigsten-externen-PC-Anschluesse-4402031.html#1
+        * 
