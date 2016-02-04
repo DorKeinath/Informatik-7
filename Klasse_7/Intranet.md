@@ -10,4 +10,7 @@
 # Namensschilder
 * Was braucht man, um mit dem PC ein Namensschild zu erstellen?
     * Peripheriegeräte
-        * 
+        * Tastatur
+        * Maus
+        * Drucker
+        * Kabelanschlüsse
