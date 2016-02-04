@@ -1,20 +1,23 @@
-# Formeller Ablauf der Stunden
+# Namensschilder und Intranet
+## Zum formellen Ablauf der Stunden
 
 * Die Stunden beginnen wir im Plenum. Wer will kann davor kurz auf den Startknopf des PCs drücken.
 * Am Ende der Stunde:
     * Konto abmelden
     * Bildschirm anlassen
     * Stuhl ran schieben
-* Behandelte Blätter im Schnellhefter oder in einer Abteilung in einem Ordner mitbringen
+* Behandelte Blätter im Schnellhefter oder in einer Abteilung in einem Ordner mitbringen.
 
-# Namensschilder
+## Namensschilder
 * Was braucht man, um mit dem PC ein Namensschild zu erstellen?
     * Peripheriegeräte
-        * Tastatur
-        * Maus
+        * Maus        
+        * [Tastatur]
         * Drucker (Drucker-Arten, Funktionsweisen, Vor- und Nachteile)
-        * [Kabelanschlüsse][1] (Datenübertragung: Dualsystem)
+        * [Kabelanschlüsse] (Datenübertragung: Dualsystem)
         * 
         * 
-[1]: http://www.computerbild.de/fotos/USB-Stecker-und-die-wichtigsten-externen-PC-Anschluesse-4402031.html#1
+[Tastatur]: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/German-T2-Keyboard-Prototype-May-2012.jpg/1024px-German-T2-Keyboard-Prototype-May-2012.jpg
+[Kabelanschlüsse]: http://www.computerbild.de/fotos/USB-Stecker-und-die-wichtigsten-externen-PC-Anschluesse-4402031.html#1
+
         * 
