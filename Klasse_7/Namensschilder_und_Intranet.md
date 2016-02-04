@@ -28,9 +28,9 @@ Namensschilder und Intranet
 [Kabelanschlüsse]: http://www.computerbild.de/fotos/USB-Stecker-und-die-wichtigsten-externen-PC-Anschluesse-4402031.html#1
 [openclipart]: https://openclipart.org/
 
-## Intranet
+## Vom Intranet zum Internet
 ### Bridge
-Für die Bilder habt ihr das Internet benutzt. Was habt ihr gebraucht, um ins Internet zu kommen?
+"Für die Bilder habt ihr das Internet benutzt. Was habt ihr gebraucht, um ins Internet zu kommen?"
 * Elektrische Energie
 * LAN
 * Modem
@@ -39,6 +39,8 @@ Für die Bilder habt ihr das Internet benutzt. Was habt ihr gebraucht, um ins In
 * Switche
 * Server
 * Router
+
+Dabei Reflexion über Material- und Energieverbrauch.
  
 ### Wieder im PC-Raum
 * Anmeldung am Server
