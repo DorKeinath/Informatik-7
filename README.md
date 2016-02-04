@@ -1,4 +1,4 @@
-My Awesome Book
+Unterrichtsstunden im Fach ITG
 =======
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Unterrichtsstunden und -einheiten, die ich für das Fach ITG empfehlen kann.
