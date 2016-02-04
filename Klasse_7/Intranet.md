@@ -20,8 +20,8 @@
         * Writer
             * Schriftart, Größe, Farben
             * Fontwork
-        * Bilder von openclipart.org
+        * Bilder von [openclipart]
+            * Screenshot erstellen, speichern und einfügen
 [Tastatur]: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/German-T2-Keyboard-Prototype-May-2012.jpg/1024px-German-T2-Keyboard-Prototype-May-2012.jpg
 [Kabelanschlüsse]: http://www.computerbild.de/fotos/USB-Stecker-und-die-wichtigsten-externen-PC-Anschluesse-4402031.html#1
-
-        * 
+[openclipart]: https://openclipart.org/
