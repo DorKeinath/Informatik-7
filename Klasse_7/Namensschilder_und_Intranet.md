@@ -18,19 +18,27 @@ Namensschilder und Intranet
         * Drucker (Drucker-Arten, Funktionsweisen, Vor- und Nachteile)
         * [Kabelanschlüsse] *Wie die Datenübertragung funktioniert, wird später behandelt: Dualsystem*
     * Betriebssystem, Software
-        * 
+    * Internet
+    * Gang durch's Schulgebäude: Kabel, Switche, Server, Router
+        * Materialbedarf: Kosten, Umweltschutz
+        * Energiebedarf
+        * Wartungsaufwand
+
 [Tastatur]: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/German-T2-Keyboard-Prototype-May-2012.jpg/1024px-German-T2-Keyboard-Prototype-May-2012.jpg
 [Kabelanschlüsse]: http://www.computerbild.de/fotos/USB-Stecker-und-die-wichtigsten-externen-PC-Anschluesse-4402031.html#1
-[openclipart]: https://openclipart.org/
+
+*Ich bevorzuge hier das Unterrichtsgespräch, möglich wäre auch eine gruppenteilige Erarbeitung.*
 
 ### Namensschilder - Praxis
-    *Neue Datei in home erstellen.
-    * Writer
-        * Schriftart, Größe, Farben
-        * Fontwork
-    * Bilder von [openclipart]
-       * Download und einfügen
-    * Rechtsklick: Umrandung
+* Neue Datei in home erstellen.
+* Writer
+    * Schriftart, Größe, Farben
+    * Fontwork
+* Bilder von [openclipart]
+   * Download und einfügen
+* Rechtsklick auf Bild: Umlauf
+    
+[openclipart]: https://openclipart.org/
 
 
 ## Vom Intranet zum Internet
