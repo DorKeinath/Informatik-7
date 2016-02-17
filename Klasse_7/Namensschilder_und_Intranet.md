@@ -10,16 +10,17 @@ Namensschilder und Intranet
 * Behandelte Blätter im Schnellhefter oder in einer Abteilung in einem Ordner mitbringen.
 
 ## Namensschilder - Theorie
-* Was braucht man, um mit dem PC ein Namensschild zu erstellen?
-    * Peripheriegeräte
-        * Maus (Arten, Vor- und Nachteile, Funktionsweise)       
-        * [Tastatur]
-        * Bildschirm (Funktionsweisen, Sitzverhalten: Höhe des Bildschirms, Augen-Verhalten)
-        * Drucker (Drucker-Arten, Funktionsweisen, Vor- und Nachteile)
-        * [Kabelanschlüsse] *Wie die Datenübertragung funktioniert, wird später behandelt: Dualsystem*
-    * Betriebssystem, Software
-    * Internet
-    * Gang durch's Schulgebäude: Kabel, Switche, Server, Router
+> Was braucht man, um mit dem PC ein Namensschild zu erstellen?
+
+ * Peripheriegeräte
+  * Maus (Arten, Vor- und Nachteile, Funktionsweise)
+  * [Tastatur]
+  * Bildschirm (Funktionsweisen, Sitzverhalten: Höhe des Bildschirms, Augen-Verhalten)
+  * Drucker (Drucker-Arten, Funktionsweisen, Vor- und Nachteile)
+  * [Kabelanschlüsse] *Wie die Datenübertragung funktioniert, wird später behandelt: Dualsystem*
+ * Betriebssystem, Software
+ * Internet
+  * Gang durch's Schulgebäude: Kabel, Switche, Server, Router
         * Materialbedarf: Kosten, Umweltschutz
         * Energiebedarf
         * Wartungsaufwand
@@ -30,38 +31,19 @@ Namensschilder und Intranet
 *Ich bevorzuge hier das Unterrichtsgespräch, möglich wäre auch eine gruppenteilige Erarbeitung.*
 
 ### Namensschilder - Praxis
+> Vorsicht bezüglich des Datenschutzes: Man darf nicht alle Bilder im Internet für sich verwenden.
+
 * Neue Datei in home erstellen.
 * Writer
     * Schriftart, Größe, Farben
     * Fontwork
 * Bilder von [openclipart]
-   * Download und einfügen
+ * [Rahmen]
+ * Download und einfügen: *.png verwenden
 * Rechtsklick auf Bild: Umlauf
     
 [openclipart]: https://openclipart.org/
+[Rahmen]: https://openclipart.org/search/?query=border
 
-
-## Vom Intranet zum Internet
-### Bridge
-"Für die Bilder habt ihr das Internet benutzt. Was habt ihr gebraucht, um ins Internet zu kommen?"
-* Elektrische Energie
-* LAN
-* Modem
-
-### Rundgang durch das Schulhaus
-* Switche
-* Server
-* Router
-
-Dabei Reflexion über Material- und Energieverbrauch.
- 
-### Wieder im PC-Raum
-* Anmeldung am Server
-* Projektordner
-* Erstellen eines eigenen Unterordners
-* Speichern eines Links (bzw. einer Verknüpfung)
-* "Was könnt ihr mit dem PC und im Internet tun?"
-    * Schüler speichern Links zu Internetseiten
-    * Schüler zeigen, was sie mit dem PC können und präsentieren ihre Internetseiten.
-    * Reflexion darüber, welche Funktion das Internet für sie hat.
+*Auf welchen Internetseiten gibt es noch Bilder, die man verwenden darf?*
 
