@@ -33,6 +33,8 @@
 Endungen
 
 # 10-Finger-System
+*Zukünftig immer wieder 10-Minuten-Phasen, in denen sie das 10-Finger-System üben. Wer sich von mir beobachten lässt und die Bestätigung erhält, dass er das 10-Finger-System beherrscht, kann diese Phasen überspringen.*
+
 
 
 
