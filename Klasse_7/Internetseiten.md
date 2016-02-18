@@ -1,4 +1,4 @@
-# Apps und Internetseiten
+# Programme und Internetseiten
 
 
 * Anmeldung am Server
