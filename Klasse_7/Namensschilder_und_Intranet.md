@@ -39,7 +39,7 @@ Namensschilder und Intranet
     * Fontwork
 * Bilder von [openclipart]
  * [Rahmen]
- * Download und einfügen
+ * Download und einfügen: *.png verwenden
 * Rechtsklick auf Bild: Umlauf
     
 [openclipart]: https://openclipart.org/
