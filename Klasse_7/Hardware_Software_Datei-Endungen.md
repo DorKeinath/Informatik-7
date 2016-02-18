@@ -21,20 +21,20 @@ Ein Betriebssystem ist eine Zusammenstellung von Software, die die Systemressour
 [Startpage]: https://startpage.com
 [DuckDuckGo]: https://duckduckgo.com
 
-*.txt
-*.odt
-*.odp
-*.jpg
-*. pdf
-*.avi
-*.mp3
-*.ogg
-*.html
-*.css
-*.php
-*.bmp
-*.exe
-*.png
-*.wmv
-*.zip
-*.ics
+1. .txt
+1. .odt
+1. .odp
+1. .jpg
+1. . pdf
+1. .avi
+1. .mp3
+1. .ogg
+1. .html
+1. .css
+1. .php
+1. .bmp
+1. .exe
+1. .png
+1. .wmv
+1. .zip
+1. .ics
