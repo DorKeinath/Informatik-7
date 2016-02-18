@@ -25,16 +25,14 @@ Ein Betriebssystem ist eine Zusammenstellung von Software, die die Systemressour
 1. .odt
 1. .odp
 1. .jpg
-1. . pdf
+1. .pdf
 1. .avi
-1. .mp3
-1. .ogg
 1. .html
 1. .css
 1. .php
 1. .bmp
 1. .exe
 1. .png
-1. .wmv
 1. .zip
 1. .ics
+1. .mp3
