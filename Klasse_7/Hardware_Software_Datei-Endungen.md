@@ -7,3 +7,34 @@ Manche Hardwaresysteme enthalten programmierbare Elemente, z.B. Prozessoren. Die
 ## Betriebssystem
 Ein Betriebssystem ist eine Zusammenstellung von Software, die die Systemressourcen eines Computers wie Arbeitsspeicher, Festplatten,und Peripheriegeräte verwaltet und diese Anwendungsprogrammen zur Verfügung stellt. Das Betriebssystem bildet dadurch die Schnittstelle zwischen den Hardwarekomponenten und der Anwendungssoftware des Benutzers. Das Betriebssystem muss die Sprache der vorhandenen Hardware kennen. Dazu sind sogenannte (Geräte-)*Treiber* notwendig. Der Zugriff auf das Speichermedium (meistens eine Festplatte) wird durch das Dateisystem geregelt. Über das Dateisystem kann man leicht *Verzeichnisse* und *Dateien* anlegen.
 ![](http://de.wikipedia.org/wiki/Datei:Operating_system_placement-de.svg)
+
+# Datei-Endungen – Dateitypen
+> Mit welchem Programm öffnen sich in der Regel die folgenden Dateien? 
+
+* Die Endung einer Datei umbenennen (F2)*
+
+>Welche Art von Datei liegt jeweils vor?
+
+* Ausprobieren
+* Recherchieren mit [Startpage] oder [DuckDuckGo]
+
+[Startpage]: https://startpage.com
+[DuckDuckGo]: https://duckduckgo.com
+
+*.txt
+*.odt
+*.odp
+*.jpg
+*. pdf
+*.avi
+*.mp3
+*.ogg
+*.html
+*.css
+*.php
+*.bmp
+*.exe
+*.png
+*.wmv
+*.zip
+*.ics
