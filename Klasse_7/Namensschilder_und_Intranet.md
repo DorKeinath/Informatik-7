@@ -45,3 +45,5 @@ Namensschilder und Intranet
 [openclipart]: https://openclipart.org/
 [Rahmen]: https://openclipart.org/search/?query=border
 
+*Auf welchen Internetseiten gibt es noch Bilder, die man verwenden darf?*
+
