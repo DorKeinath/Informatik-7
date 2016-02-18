@@ -31,7 +31,7 @@ Namensschilder und Intranet
 *Ich bevorzuge hier das Unterrichtsgespräch, möglich wäre auch eine gruppenteilige Erarbeitung.*
 
 ### Namensschilder - Praxis
-> Man darf nicht alle Bilder verwenden.
+> Vorsicht bezüglich des Datenschutzes: Man darf nicht alle Bilder im Internet für sich verwenden.
 
 * Neue Datei in home erstellen.
 * Writer
