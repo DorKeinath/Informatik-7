@@ -36,6 +36,9 @@ Falls nicht bereits gezeigt:
 ### Dateiarten
 *In EA oder PA mit anschließender Besprechung: [HO](Klasse_7/Hardware_Software_Datei-Endungen.md).*
 
+*Bridge zur nächsten Stunde: Mit mp3-Dateien befassen wir uns das nächste Mal.*
+> Hausaufgabe: Kopfhörer mitbringen.
+
 ### HexEditor
 *Unter Windows kann man den HeXEditor verwenden, um in die Dateien zu schauen. Ich zeige den Unterschied zwischen einer txt- und odt-Datei.*
 
