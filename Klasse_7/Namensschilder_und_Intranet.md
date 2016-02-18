@@ -35,10 +35,12 @@ Namensschilder und Intranet
     * Schriftart, Größe, Farben
     * Fontwork
 * Bilder von [openclipart]
-   * Download und einfügen
+ * [Rahmen]
+ * Download und einfügen
 * Rechtsklick auf Bild: Umlauf
     
 [openclipart]: https://openclipart.org/
+[Rahmen]: https://openclipart.org/search/?query=border
 
 
 ## Vom Intranet zum Internet
