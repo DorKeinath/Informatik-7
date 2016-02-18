@@ -34,7 +34,7 @@ Falls nicht bereits gezeigt:
 *Bridge zur Übertragung der Daten zum Drucker oder Internet: "Wie sprechen die Geräte miteinander?"*
 
 ### Dateiarten
-*In EA oder PA mit anschließender Besprechung: [HO](Klasse_7/Hardware_Software_Datei-Endungen.md).*
+*In EA oder PA mit anschließender Besprechung: [HO](Hardware_Software_Datei-Endungen.md).*
 
 *Bridge zur nächsten Stunde: Mit mp3-Dateien befassen wir uns das nächste Mal.*
 > Hausaufgabe: Kopfhörer mitbringen.
