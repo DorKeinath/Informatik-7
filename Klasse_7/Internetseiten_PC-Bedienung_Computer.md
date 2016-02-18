@@ -1,5 +1,5 @@
 # Programme und Internetseiten
-*Übergreifende Kompetenz: Dadurch, dass die Schüler mitschreiben, üben sie zu protokollieren.*
+*Übergreifende Kompetenz: Dadurch, dass die Schüler alle Erkenntnisse der Stunde selbständig mitschreiben, üben sie zu protokollieren.*
 
 
 ## Programme
@@ -8,7 +8,9 @@
 *Schüler präsentieren z.B. Office-Programme, Internet-Browser, Datei-Browser,..., Tastenkombinationen, Fenstermanagment,...*
 
 Falls nicht bereits gezeigt:
-* Shortcuts in Internet-Browsern.
+* Strg-Taste in Schreibprogrammen
+* Copy&Paste
+* Shortcuts in Internet-Browsern
 
 ## Internetseiten
 > Welche Internetseiten könnt ihr den Anderen empfehlen?
@@ -20,7 +22,9 @@ Falls nicht bereits gezeigt:
 * Präsentation der Links.
 * Reflexion darüber, welche Funktion das Internet für sie hat.
 
-# PC: Raspberry Pi
+# Computer
+
+## Raspberry Pi
 *RPi herum geben, fragen was das ist und welche Funktionen die Teile haben.*
 
 ## Sendung mit der Maus
@@ -29,10 +33,11 @@ Falls nicht bereits gezeigt:
 ## Dateien
 *Bridge zur Übertragung der Daten zum Drucker oder Internet: "Wie sprechen die Geräte miteinander?"*
 
-## HexEditor
+### Dateiarten
+*In EA oder PA mit anschließender Besprechung: [HO](Klasse_7/Hardware_Software_Datei-Endungen.md).*
 
-## Dateiarten
-Endungen
+### HexEditor
+*Unter Windows kann man den HeXEditor verwenden, um in die Dateien zu schauen. Ich zeige den Unterschied zwischen einer txt- und odt-Datei.*
 
 # 10-Finger-System
 *Zukünftig immer wieder 10-Minuten-Phasen, in denen sie das 10-Finger-System üben. Wer sich von mir beobachten lässt und die Bestätigung erhält, dass er das 10-Finger-System beherrscht, kann diese Phasen überspringen.*
