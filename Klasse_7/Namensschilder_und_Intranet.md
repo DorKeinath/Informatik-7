@@ -45,21 +45,3 @@ Namensschilder und Intranet
 [openclipart]: https://openclipart.org/
 [Rahmen]: https://openclipart.org/search/?query=border
 
-
-## Vom Intranet zum Internet
-### Bridge
-"Für die Bilder habt ihr das Internet benutzt. Was habt ihr gebraucht, um ins Internet zu kommen?"
-* Elektrische Energie
-* LAN
-* Modem
-
-### Rundgang durch das Schulhaus
-* Switche
-* Server
-* Router
-
-Dabei Reflexion über Material- und Energieverbrauch.
- 
-### Wieder im PC-Raum
-
-
