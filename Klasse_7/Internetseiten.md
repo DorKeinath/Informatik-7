@@ -1,4 +1,6 @@
 # Programme und Internetseiten
+*Übergreifende Kompetenz: Dadurch, dass die Schüler mitschreiben, üben sie zu protokollieren.*
+
 
 ## Programme
 > Was könnt ihr mit dem PC tun? Welche Programme kennt ihr und welche Tricks kennt ihr, um sie zu bedienen?
