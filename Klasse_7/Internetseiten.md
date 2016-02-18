@@ -1,6 +1,12 @@
 # Programme und Internetseiten
 
+## Programme
+> Was könnt ihr mit dem PC tun? Welche Programme kennt ihr und welche Tricks kennt ihr, um sie zu bedienen?
 
+*Schüler präsentieren z.B. Office-Programme, Internet-Browser, Datei-Browser,..., Tastenkombinationen, Fenstermanagment,...*
+
+
+## Internetseiten
 * Anmeldung am Server
 * Projektordner
 * Erstellen eines eigenen Unterordners
