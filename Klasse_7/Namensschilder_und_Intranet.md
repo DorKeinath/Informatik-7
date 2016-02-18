@@ -10,16 +10,17 @@ Namensschilder und Intranet
 * Behandelte Blätter im Schnellhefter oder in einer Abteilung in einem Ordner mitbringen.
 
 ## Namensschilder - Theorie
-* Was braucht man, um mit dem PC ein Namensschild zu erstellen?
-    * Peripheriegeräte
-        * Maus (Arten, Vor- und Nachteile, Funktionsweise)       
-        * [Tastatur]
-        * Bildschirm (Funktionsweisen, Sitzverhalten: Höhe des Bildschirms, Augen-Verhalten)
-        * Drucker (Drucker-Arten, Funktionsweisen, Vor- und Nachteile)
-        * [Kabelanschlüsse] *Wie die Datenübertragung funktioniert, wird später behandelt: Dualsystem*
-    * Betriebssystem, Software
-    * Internet
-    * Gang durch's Schulgebäude: Kabel, Switche, Server, Router
+> Was braucht man, um mit dem PC ein Namensschild zu erstellen?
+
+ * Peripheriegeräte
+  * Maus (Arten, Vor- und Nachteile, Funktionsweise)
+  * [Tastatur]
+  * Bildschirm (Funktionsweisen, Sitzverhalten: Höhe des Bildschirms, Augen-Verhalten)
+  * Drucker (Drucker-Arten, Funktionsweisen, Vor- und Nachteile)
+  * [Kabelanschlüsse] *Wie die Datenübertragung funktioniert, wird später behandelt: Dualsystem*
+ * Betriebssystem, Software
+ * Internet
+  * Gang durch's Schulgebäude: Kabel, Switche, Server, Router
         * Materialbedarf: Kosten, Umweltschutz
         * Energiebedarf
         * Wartungsaufwand
@@ -30,6 +31,8 @@ Namensschilder und Intranet
 *Ich bevorzuge hier das Unterrichtsgespräch, möglich wäre auch eine gruppenteilige Erarbeitung.*
 
 ### Namensschilder - Praxis
+> Man darf nicht alle Bilder verwenden.
+
 * Neue Datei in home erstellen.
 * Writer
     * Schriftart, Größe, Farben
