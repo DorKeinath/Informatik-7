@@ -10,6 +10,7 @@ Namensschilder und Intranet
 * Behandelte Blätter im Schnellhefter oder in einer Abteilung in einem Ordner mitbringen.
 
 ## Namensschilder - Theorie
+
 > Was braucht man, um mit dem PC ein Namensschild zu erstellen?
 
  * Peripheriegeräte
@@ -33,17 +34,26 @@ Namensschilder und Intranet
 ### Namensschilder - Praxis
 > Vorsicht bezüglich des Datenschutzes: Man darf nicht alle Bilder im Internet für sich verwenden.
 
+Die Bilder auf den folgenden Seiten darf man verwenden:
+* [openclipart.org]
+* Wikipedia
+
+*ToDo: Auf welchen Internetseiten gibt es noch Bilder, die man verwenden darf?*
+
+*Bridge zum Praxis-Teil: [Mauskabel].*
+[Mauskabel]: https://www.youtube.com/watch?v=WENSiwR6IoY
+
 * Neue Datei in home erstellen.
 * Writer
     * Schriftart, Größe, Farben
     * Fontwork
-* Bilder von [openclipart]
+* Bilder
  * [Rahmen]
  * Download und einfügen: *.png verwenden
 * Rechtsklick auf Bild: Umlauf
     
-[openclipart]: https://openclipart.org/
+[openclipart.org]: https://openclipart.org/
 [Rahmen]: https://openclipart.org/search/?query=border
 
-*Auf welchen Internetseiten gibt es noch Bilder, die man verwenden darf?*
+
 
