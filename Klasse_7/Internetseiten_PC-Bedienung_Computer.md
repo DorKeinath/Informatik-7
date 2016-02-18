@@ -7,6 +7,8 @@
 
 *Schüler präsentieren z.B. Office-Programme, Internet-Browser, Datei-Browser,..., Tastenkombinationen, Fenstermanagment,...*
 
+Falls nicht bereits gezeigt:
+* Shortcuts in Internet-Browsern.
 
 ## Internetseiten
 > Welche Internetseiten könnt ihr den Anderen empfehlen?
