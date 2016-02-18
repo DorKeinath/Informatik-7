@@ -17,6 +17,10 @@
 * Reflexion darüber, welche Funktion das Internet für sie hat.
 
 # PC: Raspberry Pi
+*RPi herum geben, fragen was das ist und welche Funktionen die Teile haben.*
+
+# Sendung mit der Maus
+[Sendung mit der Maus](https://www.youtube.com/watch?v=5PJZz04JGjs)
 
 # Dateien
 *Bridge zur Übertragung der Daten zum Drucker oder Internet: "Wie sprechen die Geräte miteinander?"*
