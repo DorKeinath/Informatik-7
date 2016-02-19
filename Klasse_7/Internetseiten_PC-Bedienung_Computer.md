@@ -15,10 +15,14 @@ Falls nicht bereits gezeigt:
 ## Internetseiten
 > Welche Internetseiten könnt ihr den Anderen empfehlen?
 
-* Erstellen eines Projektordners
-* Anmeldung am Server
-* Erstellen eines eigenen Unterordners
-* Speichern eines Links (bzw. einer Verknüpfung)
+1. Konto abmelden
+2. Konto wieder anmelden
+3. In den Projekt-Ordner gehen
+4. Ordner mit deinem Namen erstellen
+5. Text-Datei erstellen.
+6. In diese Text-Datei Links kopieren zu Internetseiten, die du cool findest.
+
+
 * Präsentation der Links.
 * Reflexion darüber, welche Funktion das Internet für sie hat.
 
