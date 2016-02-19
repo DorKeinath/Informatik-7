@@ -19,8 +19,9 @@ Falls nicht bereits gezeigt:
 2. Konto wieder anmelden
 3. In den Projekt-Ordner gehen
 4. Ordner mit deinem Namen erstellen
-5. Text-Datei erstellen.
+5. Textdokument erstellen.
 6. In diese Text-Datei Links kopieren zu Internetseiten, die du cool findest.
+7. Datei speichern.
 
 
 * Präsentation der Links.
