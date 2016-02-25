@@ -43,8 +43,8 @@ Als Bridge mache ich vor, was die Schüler gleich tun sollen
 	+ [heise online]
 	+ [Piratenpad]
 
-	[heise online]: http://www.heise.de/
-	[Piratenpad]: https://www.piratenpad.de/
+[heise online]: http://www.heise.de/
+[Piratenpad]: https://www.piratenpad.de/
 
 
 
