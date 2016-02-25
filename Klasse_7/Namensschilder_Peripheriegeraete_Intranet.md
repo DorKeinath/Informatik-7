@@ -1,4 +1,4 @@
-Namensschilder und Intranet
+Namensschilder, Peripheriegeräte und Intranet
 ==================================
 ## Zum formellen Ablauf der Stunden
 
@@ -40,8 +40,8 @@ Die Bilder auf den folgenden Seiten darf man verwenden:
 
 *ToDo: Auf welchen Internetseiten gibt es noch Bilder, die man verwenden darf?*
 
-*Bridge zum Praxis-Teil: [Mauskabel].*
-[Mauskabel]: https://www.youtube.com/watch?v=WENSiwR6IoY
+*Bridge zum Praxis-Teil: [Video Mauskabel].*
+[Video Mauskabel]: https://www.youtube.com/watch?v=WENSiwR6IoY
 
 * Neue Datei in home erstellen.
 * Writer
