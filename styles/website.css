@@ -2,6 +2,6 @@
     color: highlight;
 }
 
-.fa-facebook::before {
+.fa-facebook::before, .fa-twitter::before {
     font-size: 0px;
 }
