@@ -15,8 +15,8 @@
 
 *CD als Beispiel für ein Speichermedium der {0,1}*
 
-* $$[3]_{10} = 1 cdot 2^1 + 1 cdot 2^0 = [11]_2$$
-* $[11000]_2 = 1 cdot 2^4 + 1 cdot 2^3 + 0 cdot 2^2 + ...$$
+* $$[3]_{10} = 1 \cdot 2^1 + 1 \cdot 2^0 = [11]_2$$
+* $$[11000]_2 = 1 \cdot 2^4 + 1 \cdot 2^3 + 0 \cdot 2^2 + ...$$
 * Zweierpotenzen
 * Wie viele Zahlen kann man mit 4 Binärstellen ("4 Bit") darstellen?
 * [WolframAlpha]
