@@ -5,7 +5,9 @@
 * Präsentationen mit Impress
 * [PC-Bedienung und Internetseiten](Klasse_7/PC-Bedienung_Internetseiten.md)
 * [Dualsystem und Dateiformate](Klasse_7/Dualsystem_Dateien.md)
-* [Klingelton](Klasse_7/Klingelton.md)
+* [Klingelton aus YouTube-Video](Klasse_7/Klingelton_aus_YouTube-Video.md)
+* [Klingelton mit SonicPi](Klasse_7/Klingelton_mit_SonicPi.md)
+* [Lied mit SonicPi](Klasse_7/Lied_mit_SonicPi.md)
 * [Musik-Programmierung](Klasse_7/SonicPi.md)
 
 * Handouts
