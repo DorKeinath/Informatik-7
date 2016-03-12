@@ -15,6 +15,8 @@
 
 *CD als Beispiel für ein Speichermedium der {0,1}*
 
+> Was könnte [das](http://haubergs.com/bc) sein?
+
 * $$[3]_{10} = 1 \cdot 2^1 + 1 \cdot 2^0 = [11]_2$$
 * $$[11000]_2 = 1 \cdot 2^4 + 1 \cdot 2^3 + 0 \cdot 2^2 + ...$$
 * Zweierpotenzen
@@ -45,6 +47,7 @@ Ich zeige Unterschiede zwischen einer txt- und odt-Datei.*
 
 ## Hardware, Software und Dateiarten
 *In EA oder PA mit anschließender Besprechung: [HO](HO_Hardware_Software_Datei-Endungen.md).*
+* Vorsicht bei *.exe, *.bat und *.js! Bekommt man ein solche Datei gesendet, handelt es sehr wahrscheinlich um ein Virus.
 
 ## Hausaufgabe
 *"Mit mp3-Dateien befassen wir uns das nächste Mal."*
