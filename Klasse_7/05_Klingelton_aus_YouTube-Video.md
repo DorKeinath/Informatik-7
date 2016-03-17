@@ -4,6 +4,7 @@
 # Klingelton aus YouTube-Video
 
 1. Ein YouTube-Video aufrufen und als mp3 speichern.
+	+ Je nach Video, muss man es selbst [zur mp3-Datei kompilieren](http://www.youtube-mp3.org/de).
 1. **Audacity** öffnen und die mp3-Datei hinein ziehen.
 1. Die Datei in den Eigenen Dateien speichern.
 1. Verkürzen und Bearbeiten der Datei (z. B. Einblenden und Fade-Out)
