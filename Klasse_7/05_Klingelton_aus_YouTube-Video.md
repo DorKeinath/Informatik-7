@@ -17,5 +17,4 @@
 * USB-Kabel
 * E-Mail
 * LAN
-	+ ...
 	+ Syncthing vs. Dropbox
