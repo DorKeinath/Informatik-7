@@ -14,3 +14,8 @@ http://www.physikfuerkids.de/wiewas/musik/index.html
 1. Gesang und Hintergrund-Musik mit Audacity zusammenfügen.
 
 *Alternativ ein Lied durch gemeinsames Singen oder Mitsingen erstellen.*
+
+## Mikrofon selber basteln
+Wer möchte, kann ein Mikrofon selber bauen
+* Aus einem [Joghurtbecher](http://www.geo.de/GEOlino/kreativ/basteln/basteltipp-mikrofon-selber-basteln-wer-spricht-denn-da-51476.html)
+* Aus [alter Elektronik](https://www.youtube.com/watch?v=29bDbAEjNsE)
