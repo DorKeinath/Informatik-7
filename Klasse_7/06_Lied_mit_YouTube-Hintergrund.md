@@ -1,4 +1,9 @@
 # Klingelton mit Hintergrund-Musik von YouTube
+
+## Theorie
+http://www.physikfuerkids.de/wiewas/musik/index.html
+
+# Praxis
 1. Sich für eine Hintergrund-Musik entscheiden: Nach dem Stichwort **instrumental** oder **karaoke** suchen.
 1. Dazu einen Vers dichten.
 1. Den gesungenen/gerappten Vers mit dem Handy aufnehmen.
