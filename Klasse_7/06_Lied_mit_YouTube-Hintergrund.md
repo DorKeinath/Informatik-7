@@ -1,4 +1,5 @@
 # Klingelton mit Hintergrund-Musik von YouTube
+*Noch nicht durchgeführt*
 
 ## Theorie
 http://www.physikfuerkids.de/wiewas/musik/index.html
@@ -13,7 +14,7 @@ http://www.physikfuerkids.de/wiewas/musik/index.html
 	* http://www.gutefrage.net/frage/audacity-rauschentfernung-kapiere-ich-nicht
 1. Gesang und Hintergrund-Musik mit Audacity zusammenfügen.
 
-*Alternativ ein Lied durch gemeinsames Singen oder Mitsingen erstellen.*
+*Alternativ ein Lied durch gemeinsames Singen oder Mitsingen erstellen. Probleme dabei sind, dass das Schneiden nicht gruppenteilig möglich ist und auch nicht alle Schüler für das gemeinsame Lied interessieren.*
 
 ## Mikrofon selber basteln
 Wer möchte, kann ein Mikrofon selber bauen

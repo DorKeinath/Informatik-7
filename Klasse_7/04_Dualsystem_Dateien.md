@@ -35,7 +35,7 @@
 *Durch kleine Veränderungen in einer jpg-Datei über einen Text-Editor zeigen, dass sich diese auf die Darstellung des Bildes auswirken: Der PC erkennt das Bild nicht mehr, oder es kommt zu Verkürzungen oder Wiederholungen.*
 
 ## HexEditor
-* Ich habe drei paar Mal versucht, (unter Windows) den HeXEditor zu verwenden, um in eine Text-Datei zu schauen, etwas zu verändern und mit einer Word-Datei zu vergleichen. Das ist an dieser Stelle recht unzufriedenstellen, weil man aufgrund der Darstellung in Unicode-Zeichen das Hexadezimalsystem braucht. Ich sehe daher nur zwei Möglichkeiten: (1) Das erst im Informatik-Kurs zu machen, oder (2) eine Einheit zum Hexadezimalsystem vorzuschieben. Durch noch mehr Theorie würde diese Stunde aber zu lang dauern. Deswegen evtl. in der nächsten Stunde, als Wiederholung und Erweiterung.*
+*Ich habe drei paar Mal versucht, (unter Windows) den HeXEditor zu verwenden, um in eine Text-Datei zu schauen, etwas zu verändern und mit einer Word-Datei zu vergleichen. Das ist an dieser Stelle recht unzufriedenstellen, weil man aufgrund der Darstellung in Unicode-Zeichen das Hexadezimalsystem braucht. Ich sehe daher nur zwei Möglichkeiten: (1) Das erst im Informatik-Kurs zu machen, oder (2) eine Einheit zum Hexadezimalsystem vorzuschieben. Durch noch mehr Theorie würde diese Stunde aber zu lang dauern. Deswegen evtl. in der nächsten Stunde, als Wiederholung und Erweiterung.*
 
 * [Unicode-Tabelle]
 * [WikipediaUTF-8]
@@ -53,6 +53,6 @@ Ich zeige Unterschiede zwischen einer txt- und odt-Datei.*
 *"Mit mp3-Dateien befassen wir uns das nächste Mal."*
 
 * Kopfhörer und
-* Handy-USB-Kabel mitbringen.
+* Handy-Kabel mitbringen.
 
 

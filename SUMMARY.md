@@ -11,5 +11,5 @@
 * [Lied mit SonicPi](Klasse_7/08_Lied_mit_SonicPi.md)
 * [Sonic-Pi-Event](Klasse_7/09_SonicPi-Event.md)
 
-* Handouts
+Handouts
     + [HO Hardware Software Datei-Endungen](Klasse_7/HO_Hardware_Software_Datei-Endungen.md) 
