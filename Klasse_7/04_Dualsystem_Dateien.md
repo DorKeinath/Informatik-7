@@ -31,6 +31,9 @@
 ## Sendung mit der Maus zum Computer
 [Sendung mit der Maus](https://www.youtube.com/watch?v=5PJZz04JGjs)
 
+## Übung zum Binärsystem
+*Schüler rechnen Zahlen vom Dezimal- ins Binärsystem um, und umgekehrt.*
+
 ## Bilddatei verändern
 *Durch kleine Veränderungen in einer jpg-Datei über einen Text-Editor zeigen, dass sich diese auf die Darstellung des Bildes auswirken: Der PC erkennt das Bild nicht mehr, oder es kommt zu Verkürzungen oder Wiederholungen.*
 
