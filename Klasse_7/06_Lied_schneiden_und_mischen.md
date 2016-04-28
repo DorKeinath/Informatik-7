@@ -1,4 +1,4 @@
-# Klingelton mit Hintergrund-Musik von YouTube
+# Lied schneiden und mischen
 
 ## Theorie Teil 1
 http://www.physikfuerkids.de/wiewas/musik/index.html
@@ -6,7 +6,8 @@ http://www.physikfuerkids.de/wiewas/musik/index.html
 ## Praxis
 
 *Die Schüler wählen ein Lied, das sie cool finden. Beim Refrain singen sie mit. Wir nehmen ihren Gesang auf und stellen die Aufnahme im Projektordner zur Verfügung. Die Schüler mischen ihren Gesang unter das Original.*
-*Als Nachteil erscheint zunächst, dass alle Schüler denselben Song erstellen. In der Praxis habe ich das nicht als Nachteil erlebt, da sich so die Schüler besser gegenseitig helfen können und Varianten und verschiedene Genauigkeiten möglich sind. Ich habe die Schüler dazu verpflichtet, am Ende der zweiten Doppelstunde ihre Bearbeitung als mp3-Export im Tauschordner mit ihrem Namen im Dateinamen ab zu speichern.*
+
+*Als Nachteil erscheint zunächst, dass alle Schüler denselben Song erstellen. In der Praxis habe ich das nicht als Nachteil erlebt, da sich so die Schüler besser gegenseitig helfen können und Varianten und verschiedene Genauigkeiten möglich sind. Die Schüler müssen am Ende der zweiten Doppelstunde ihre Bearbeitung als mp3-Export im Tauschordner mit ihrem Namen im Dateinamen abspeichern.*
 
 Es gibt zwei Möglichkeiten, die zweite klingt i.d.R. etwas besser.
 1. Entweder ihr schneidet euren Gesang aus und fügt ihn an die passenden Stellen im Original ein. Dadurch wird der Original-Refrain ersetzt.
