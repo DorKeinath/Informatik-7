@@ -6,7 +6,7 @@
 * [PC-Bedienung und Internetseiten](Klasse_7/03_PC-Bedienung_Internetseiten.md)
 * [Dualsystem und Dateiformate](Klasse_7/04_Dualsystem_Dateien.md)
 * [Klingelton aus YouTube-Video](Klasse_7/05_Klingelton_aus_YouTube-Video.md)
-* [Lied schneiden und mischen](Klasse_7/06_schneiden_und_mischen.md)
+* [Lied schneiden und mischen](Klasse_7/06_Lied_schneiden_und_mischen.md)
 * [SonicPi - Komponieren mittels Code](Klasse_7/07_SonicPi.md)
 
 Handouts
