@@ -22,6 +22,12 @@ Erstellt mit dem Programm *Impress* eine Präsentation zu einem Thema eurer Wahl
 ### Speichern
 Erstellt eine neue Impress-Datei und speichert sie in euren Eigenen Dateien.
 
+### Vorgaben
+Es gelten die gelernten Vorgaben: Nicht zu viele Animationen, lesbare Schriftgröße, keine ganzen Sätze, Überschriften ohne Unterstreichung,...
+
+### Fotos vom eigenen Handy
+Ihr könnt gerne eigene Fotos verwenden. Wenn Ihr über ein Kabel auf euer Handy zugreift, solltet ihr das gewünschte Foto zuerst in euren Eigenen Dateien (oder sonst irgendwo auf der Festplatte des PCs) speichern, sonst darf Impress unter Umständen nicht darauf zugreifen und kann es nicht einfügen.
+
 ### Screenshots
 Screenshots von Bildern könnt ihr mit Hilfe des Programms mit dem gelben Symbol erstellen
 
@@ -41,11 +47,13 @@ Screenshots von Bildern könnt ihr mit Hilfe des Programms mit dem gelben Symbol
 ### Präsentieren
 *Schüler präsentieren und die Klasse gibt Feedback.*
 
-Worauf kommt es beim Präsentieren an?
+#### Worauf kommt es beim Präsentieren an?
 
+* Interessanter Einstieg
 * Spezielles Wissen
 * Fachsprache
 * Struktur
+* Freundliches Auftreten
 * Körperhaltung
 * Mimik
 * Stimme

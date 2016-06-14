@@ -8,6 +8,7 @@
 * [Klingelton aus YouTube-Video](Klasse_7/05_Klingelton_aus_YouTube-Video.md)
 * [Lied schneiden und mischen](Klasse_7/06_Lied_schneiden_und_mischen.md)
 * [SonicPi - Komponieren mittels Code](Klasse_7/07_SonicPi.md)
+* [Digitale Gefahren](Klasse_7/08_Digitale_Gefahren.md)
 
 Handouts
     + [HO Hardware Software Datei-Endungen](Klasse_7/HO_Hardware_Software_Datei-Endungen.md) 
