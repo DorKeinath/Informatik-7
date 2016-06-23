@@ -1,7 +1,7 @@
 # Digitale Gefahren
 
 ## Mobbing
-*Die Schüler diskutieren was erlaubt und nicht erlaubt ist. Der Lehrer gibt ein Handout mit rechtlichen Grundlagen dazu an die Hand.*
+*Reflexion und Diskussionen zum Film [Netzangriff](http://www.youtube.com/watch?v=aHMgcmYuz2M) anhand der [Mobbing-Slides]()
 
 ### Nummer gegen Kummer
 [Telefon-Nummer](https://www.handysektor.de/lexikon/glossar/Entry/show/kinder-und-jugendtelefon.html)
