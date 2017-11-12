@@ -1,13 +1,37 @@
-Namensschilder, Peripheriegeräte und Intranet
-==================================
-## Zum formellen Ablauf der Stunden
+Organisation
+============
+
+## Informationen des Lehrers zum formellen Ablauf der Stunden
 
 * Die Stunden beginnen wir im Plenum. Wer will kann davor kurz auf den Startknopf des PCs drücken.
 * Am Ende der Stunde:
-    * Konto abmelden
-    * Bildschirm anlassen
-    * Stuhl ran schieben
+* Konto abmelden
+* Bildschirm anlassen
+* Stuhl ran schieben
 * Behandelte Blätter im Schnellhefter oder in einer Abteilung in einem Ordner mitbringen.
+
+## Notengebung
+* Klassenarbeiten
+* Mündliche Note
+
+
+ITG vs. Informatik
+==================
+
+## Erwartungen
+Die Schüler notieren ihre Erwartungen an das Fach auf Karten.
+
+## Puzzle
+[Puzzle ITG vs Informatik](HOs/Puzzle ITG vs Informatik.ods)
+
+Der Mensch | die Maschine | an | an. | sich | passt
+
+## Einordnung
+Die Schüler ordnen ihre Erwartungen den beiden Definitionen zu.
+
+
+Namensschilder: Peripheriegeräte und Intranet
+=============================================
 
 ## Namensschilder - Theorie
 
