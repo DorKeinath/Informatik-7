@@ -14,5 +14,5 @@
     * [Digitale Gefahren](Klasse_7/08_Digitale_Gefahren.md)
 
 + Handouts
-    + [HO ITG vs Informatik](HOs/Puzzle ITG vs Informatik.ods)
+    + [HO ITG vs Informatik](ref://HOs/Puzzle ITG vs Informatik.ods)
     + [HO Hardware Software Datei-Endungen](Klasse_7/HO_Hardware_Software_Datei-Endungen.md)
