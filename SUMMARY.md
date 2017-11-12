@@ -1,9 +1,8 @@
 # Inhalt
-Informatik Klasse 7
-* [Einstieg](Einstieg.md)
+* Informatik Klasse 7
+    * [Einstieg](Einstieg.md)
 
-
-ITG bis 2016
+* ITG bis 2016
     * [Einführung](README.md)
     * [Namensschilder: Peripheriegeräte, Intranet](Klasse_7/01_Namensschilder_Peripheriegeraete_Intranet.md)
     * [Präsentationen mit Impress](Klasse_7/02_Praesentationen_mit_Impress.md)
@@ -14,6 +13,6 @@ ITG bis 2016
     * [SonicPi - Komponieren mittels Code](Klasse_7/07_SonicPi.md)
     * [Digitale Gefahren](Klasse_7/08_Digitale_Gefahren.md)
 
-Handouts
++ Handouts
     + [HO ITG vs Informatik](HOs/Puzzle ITG vs Informatik)
     + [HO Hardware Software Datei-Endungen](Klasse_7/HO_Hardware_Software_Datei-Endungen.md)
