@@ -13,6 +13,7 @@ Organisation
 ## Notengebung
 * Klassenarbeiten
 * Mündliche Note
+* GFS
 
 
 ITG vs. Informatik
