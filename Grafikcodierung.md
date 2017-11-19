@@ -17,4 +17,5 @@ Siehe offizielles Handout Aufgaben 21-Ende
 [Mauspfeil](https://openclipart.org/detail/222074/white-pixel-mouse-cursor-arow-fixed)
 
 Den hochauflösenden Remix nehmen und mit Gimp die Auflösung verändern.
-Erläuterung zu Vektorgrafiken von der obigen Pfau-Seite.
+
+Erläuterung zu Vektorgrafiken von der obigen Pfau-Seite oder mit [w3schools](https://www.w3schools.com/graphics/svg_intro.asp).
