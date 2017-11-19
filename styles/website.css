@@ -2,6 +2,13 @@
     color: highlight;
 }
 
-.fa-facebook::before, .fa-twitter::before {
+.fa-facebook::before, .fa-twitter::before, .fa-share-alt::before {
     font-size: 0px;
 }
+
+img[alt='50px']{width: 50px;}
+img[alt='100px']{width: 100px;}
+img[alt='150px']{width: 150px;}
+img[alt='200px']{width: 200px;}
+img[alt='300px']{width: 300px;}
+img[alt='400px']{width: 400px;}

@@ -1,6 +1,8 @@
 # Inhalt
 * Informatik Klasse 7
     * [Einstieg](Einstieg.md)
+    * [...](Einstieg.md)
+    * [Grafikcodierung](Grafikcodierung.md)
 
 * ITG bis 2016
     * [Einführung](README.md)
