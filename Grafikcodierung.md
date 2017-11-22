@@ -20,7 +20,7 @@ Siehe offizielles Handout Aufgaben 21-Ende. Zuerst 21+22, dann Besprechung im Pl
 ## PL: Vektorgrafiken
 Den hochauflösenden Remix des [Mauspfeils](https://openclipart.org/detail/222074/white-pixel-mouse-cursor-arow-fixed) nehmen und mit Gimp die Auflösung verändern.
 
-Besprechung des Rests des Handouts. Evtl. Erläuterungen einer [Unicode-Tabelle](https://unicode-table.com/de/blocks/basic-latin/)
+Besprechung des Rests des Handouts. Evtl. Erläuterungen einer [Unicode-Tabelle](https://unicode-table.com/de/blocks/basic-latin/).
 
 Dann Erläuterung zu Vektorgrafiken von der obigen Pfau-Seite oder mit [w3schools](https://www.w3schools.com/graphics/svg_intro.asp).
 
