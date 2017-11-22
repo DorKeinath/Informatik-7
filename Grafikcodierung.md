@@ -14,13 +14,12 @@ Anders als beim "A" wird bei einem Bild dem Bildschirm keine Anweisung gegeben, 
 ## HO
 Siehe offizielles Handout Aufgaben 21-Ende. Zuerst 21+22, dann Besprechung im Plenum. Vorbesprechung von A23: Byte für die Größe des Bildes.
 
-## PL
-
 ![300px](https://openclipart.org/image/2400px/svg_to_png/222074/White-Pixel-Mouse-Cursor-Arow-Fixed.png)
  <!-- 12*19 px^2 -->
 
-[Mauspfeil](https://openclipart.org/detail/222074/white-pixel-mouse-cursor-arow-fixed)
+## PL: Vektorgraphiken
+Den hochauflösenden Remix des [Mauspfeils](https://openclipart.org/detail/222074/white-pixel-mouse-cursor-arow-fixed) nehmen und mit Gimp die Auflösung verändern.
 
-Den hochauflösenden Remix nehmen und mit Gimp die Auflösung verändern.
+Dann Erläuterung zu Vektorgrafiken von der obigen Pfau-Seite oder mit [w3schools](https://www.w3schools.com/graphics/svg_intro.asp).
 
-Erläuterung zu Vektorgrafiken von der obigen Pfau-Seite oder mit [w3schools](https://www.w3schools.com/graphics/svg_intro.asp).
+Die Schüler probieren ein paar Minuten auf w3schools aus, wie sie den SVG-Code verändern können, um die Graphik zu verändern.
