@@ -17,7 +17,7 @@ Siehe offizielles Handout Aufgaben 21-Ende. Zuerst 21+22, dann Besprechung im Pl
 ![300px](https://openclipart.org/image/2400px/svg_to_png/222074/White-Pixel-Mouse-Cursor-Arow-Fixed.png)
  <!-- 12*19 px^2 -->
 
-## PL: Vektorgraphiken
+## PL: Vektorgrafiken
 Den hochauflösenden Remix des [Mauspfeils](https://openclipart.org/detail/222074/white-pixel-mouse-cursor-arow-fixed) nehmen und mit Gimp die Auflösung verändern.
 
 Besprechung des Rests des Handouts. Evtl. Erläuterungen einer [Unicode-Tabelle](https://unicode-table.com/de/blocks/basic-latin/)
