@@ -3,6 +3,7 @@
     * [Einstieg](Einstieg.md)
     * [...](Einstieg.md)
     * [Grafikcodierung](Grafikcodierung.md)
+    * [Algorithmen](algorithmen.md)
 
 * ITG bis 2016
     * [Einführung](README.md)
