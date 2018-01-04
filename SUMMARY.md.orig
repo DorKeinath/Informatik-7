@@ -1,12 +1,20 @@
+<<<<<<< HEAD
 # Inhalt
+* Informatik Klasse 7
+    * [Einstieg](Einstieg.md)
+    * [...](Einstieg.md)
+    * [Grafikcodierung](Grafikcodierung.md)
+    * [Algorithmen](algorithmen.md)
+    * [Rechner und Netze](rechner_und_netze.md)
+=======
+# Summary
+>>>>>>> e97cf4d3cab2a34d66ff48d2fad52825fb5e3a6c
 
 * [Informatik Klasse 7](informatik-klasse-7.md)
   * [Einstieg](Einstieg.md)
-  * [Daten und Codierung](daten_und_codierung.md)
+  * [...](Einstieg.md)
   * [Grafikcodierung](Grafikcodierung.md)
   * [Algorithmen](algorithmen.md)
-  * [Rechner und Netze](rechner_und_netze.md)
-
 * ITG bis 2016
   * [Einführung](README.md)
   * [Namensschilder: Peripheriegeräte, Intranet](Klasse_7/01_Namensschilder_Peripheriegeraete_Intranet.md)
@@ -21,6 +29,3 @@
   * [HO ITG vs Informatik](ref://HOs/Puzzle ITG vs Informatik.ods)
   * [HO Hardware Software Datei-Endungen](Klasse_7/HO_Hardware_Software_Datei-Endungen.md)
 
-+ Handouts
-    + [HO ITG vs Informatik](ref://HOs/Puzzle ITG vs Informatik.ods)
-    + [HO Hardware Software Datei-Endungen](Klasse_7/HO_Hardware_Software_Datei-Endungen.md)
