@@ -7,6 +7,7 @@ Sie folgen dem [Bildungsplan Baden-Württemberg](http://www.bildungsplaene-bw.de
 Ich habe das offizielle Material verwendet: [RPKA](https://moodle.rpka.ka.schule-bw.de/moodle/course/view.php?id=249), [Lehrerfortbildung-bw.de](https://lehrerfortbildung-bw.de/u_matnatech/informatik/gym/bp2016/fb1/).
 Interessant ist auch das folgende Material:
 * [inf-schule.de](http://www.inf-schule.de/)
+* [Informatik ohne Stecker](http://www.lmz-bw.de/medienbildung/aktuelles/mediaculture-blog/blogeinzelansicht/2017/informatik-ohne-stecker-informatik-ohne-pc-tablet-oder-smartphone.html)
 
 # Mitmachen
 Gerne kannst du über das Pluszeichen Ergänzungen kommentieren oder auf Fehler hinweisen. Wenn du direkt mitschreiben willst, melde dich gerne bei [mir](https://xcosx.github.io/pages/kontakt.html).

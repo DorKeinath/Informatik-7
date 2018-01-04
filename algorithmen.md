@@ -23,4 +23,6 @@ Seiten 3,4,8,14 und 11,11.
 ## Algorithmen Teil 2: Scratch
 Siehe Skript von Di.
 
+Die Lehrkraft teilt eine *Elterninfo* aus.
+
 [Scratch](https://scratch.mit.edu/)
