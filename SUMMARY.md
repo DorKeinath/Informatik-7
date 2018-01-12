@@ -6,6 +6,7 @@
   * [Grafikcodierung](Grafikcodierung.md)
   * [Algorithmen](algorithmen.md)
   * [Rechner und Netze](rechner_und_netze.md)
+  * [Informationelle Selbstbestimmung](Informationelle_Selbstbestimmung.md)
 
 * ITG bis 2016
   * [Einführung](README.md)
