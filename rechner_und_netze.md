@@ -39,3 +39,4 @@ Bei Android lange auf die WLAN-Verbindung klicken, 'statisch' auswählen und gan
 4. Browser [Tipp4](https://www.kuketz-blog.de/5-praxisnahe-tipps-fuer-mehr-it-sicherheit-echt-jetzt/)
 5. Handy-Betriebssystem: [LineageOS](https://www.kuketz-blog.de/die-update-problematik-bei-android-android-unter-kontrolle-teil2/)
 6. Alternative zu GoogleMaps: [OpenStreetmap](https://www.openstreetmap.de/karte.html), [OsmAnd](https://f-droid.org/packages/net.osmand.plus/)
+7. [Android-Einstellungen](https://www.kuketz-blog.de/konfigurationsempfehlungen-android-unter-kontrolle-teil5/)
