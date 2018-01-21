@@ -24,6 +24,18 @@ Bei Android lange auf die WLAN-Verbindung klicken, 'statisch' auswählen und gan
 * Digitalcourage: 85.214.20.141
 * [DNS.WATCH](https://dns.watch/how-to): 84.200.69.80 und 84.200.70.40
 
-Weitere Einstellungen, um die Sicherheit des Handys zu erhöhen:
-* [Kuketz-Blog. Hier 4.1](https://www.kuketz-blog.de/konfigurationsempfehlungen-android-unter-kontrolle-teil5/#more-471232)
-* [Kuketz-Blog Empfehlungsecke](https://www.kuketz-blog.de/empfehlungsecke/#dns)
+[Siehe Kuketz-Blog. Hier 4.1](https://www.kuketz-blog.de/konfigurationsempfehlungen-android-unter-kontrolle-teil5/#more-471232)
+
+## EA: Handysicherheit
+
+[Argumente für mehr Handysicherheit](https://www.kuketz-blog.de/your-phone-your-data-light-android-unter-kontrolle/)
+
+[Kuketz' Empfehlungsecke](https://www.kuketz-blog.de/empfehlungsecke/)
+
+0. Firewall: [Netguard](https://www.kuketz-blog.de/netguard-firewall-android-unter-kontrolle-teil4/)
+1. Passwörter: [Diceware ("Tipp2")](https://www.kuketz-blog.de/5-praxisnahe-tipps-fuer-mehr-it-sicherheit-echt-jetzt/)
+2. Suchmaschinen: [Qwant](https://www.kuketz-blog.de/suchmaschine-qwant-naeher-betrachtet/), [Weitere](https://www.kuketz-blog.de/datenschutzfreundliche-suchmaschinen-eine-ergaenzung/)
+3. App-Store: [F-Droid](https://www.kuketz-blog.de/f-droid-und-app-alternativen-android-unter-kontrolle-teil3/)
+4. Browser [Tipp4](https://www.kuketz-blog.de/5-praxisnahe-tipps-fuer-mehr-it-sicherheit-echt-jetzt/)
+5. Handy-Betriebssystem: [LineageOS](https://www.kuketz-blog.de/die-update-problematik-bei-android-android-unter-kontrolle-teil2/)
+6. Alternative zu GoogleMaps: [OpenStreetmap](https://www.openstreetmap.de/karte.html), [OsmAnd](https://f-droid.org/packages/net.osmand.plus/)
