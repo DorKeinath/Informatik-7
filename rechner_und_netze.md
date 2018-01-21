@@ -1,6 +1,6 @@
 # Rechner und Netze
 
-Siehe Material $3.
+Im offiziellen Material ist das $3. Ich kann aus dieser Einheit nur das Rollenspiel empfehlen, der Rest wird meinen Sicherheitsansprüchen nicht gerecht. Es ist weder von Metadaten die Rede, noch sind die ausgesprochenen Empfehlungen für Clouddienste und Messenger wohl überlegt.
 
 ## WG: Rollenspiel Netzwerk
 
