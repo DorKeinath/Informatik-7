@@ -24,7 +24,7 @@ ITG vs. Informatik
 Die Schüler notieren ihre Erwartungen an das Fach auf Karten.
 
 ## Puzzle
-[Puzzle ITG vs Informatik](HOs/Puzzle ITG vs Informatik.ods)
+[Puzzle ITG vs Informatik](HOs/Puzzle ITG vs Informatik.ods) (Klick mit der Strg-Taste)
 
 Der Mensch | die Maschine | an | an. | sich | passt
 
@@ -73,11 +73,13 @@ Die Bilder auf den folgenden Seiten darf man verwenden:
 
 <!-- ToDo: Auf welchen Internetseiten gibt es noch Bilder, die man verwenden darf? -->
 
-* Neue Datei in `Home of Server` erstellen.
+So könnt ihr vorgehen:
+
+* Neue Datei im Verzeichnis `Home of Server` erstellen.
 * Bilder
     * [Rahmen](https://openclipart.org/search/?query=border)
     * Download und einfügen: `*.png` verwenden
-    * Rechtsklick auf Bild: Umlauf
+    * Rechtsklick auf Bild: *Umlauf*
     * Proportionales Skalieren mit der Shift-Taste
     * Drehen mit *LibreOffice Draw*
 * Writer
@@ -87,9 +89,9 @@ Die Bilder auf den folgenden Seiten darf man verwenden:
 
 ### PL: Browser-Bedienung
 
-* Erläuterung der Adressleiste (Strg+L)
+Erläuterung der Adressleiste (Strg+L).
 
-* Tastatur(-kombinationen) im Browser
+Tastatur(-kombinationen) im Browser
     + Bildlauf
     + Pos1
     + Ende
