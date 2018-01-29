@@ -5,14 +5,15 @@ Organisation
 
 * Die Stunden beginnen wir im Plenum. Wer will kann davor kurz auf den Startknopf des PCs drücken.
 * Am Ende der Stunde:
-* Konto abmelden
-* Bildschirm anlassen
-* Stuhl ran schieben
+    * Konto abmelden
+    * Bildschirm anlassen
+    * Stuhl ran schieben
 * Behandelte Blätter im Schnellhefter oder in einer Abteilung in einem Ordner mitbringen.
 
 ## Notengebung
 * Klassenarbeiten
 * Mündliche Note
+* Gewichtung 1:1
 * GFS
 
 
@@ -30,6 +31,12 @@ Der Mensch | die Maschine | an | an. | sich | passt
 ## Einordnung
 Die Schüler ordnen ihre Erwartungen den beiden Definitionen zu.
 
+## Bridge
+
+Lehrer:
+
+> Der Rest der Stunde besteht im zweiten Teil aus ITG, im ersten Teil kommen Aspekte vor, die wir im Laufe des Schuljahres behandeln und erklären werden, wie sie funktionieren.
+
 
 Namensschilder: Peripheriegeräte und Intranet
 =============================================
@@ -37,6 +44,8 @@ Namensschilder: Peripheriegeräte und Intranet
 ## Namensschilder - Theorie
 
 > Was braucht man, um mit dem PC ein Namensschild zu erstellen?
+
+[Video Mauskabel](https://www.youtube.com/watch?v=WENSiwR6IoY)
 
 * Peripheriegeräte
     * Maus (Arten, Vor- und Nachteile, Funktionsweise)
@@ -59,22 +68,32 @@ Namensschilder: Peripheriegeräte und Intranet
 > Vorsicht bezüglich des Datenschutzes: Man darf nicht alle Bilder im Internet für sich verwenden.
 
 Die Bilder auf den folgenden Seiten darf man verwenden:
-* [openclipart.org]
+* [openclipart.org](https://openclipart.org/)
 * Wikipedia
 
-*ToDo: Auf welchen Internetseiten gibt es noch Bilder, die man verwenden darf?*
+<!-- ToDo: Auf welchen Internetseiten gibt es noch Bilder, die man verwenden darf? -->
 
-*Bridge zum Praxis-Teil: [Video Mauskabel].*
-[Video Mauskabel]: https://www.youtube.com/watch?v=WENSiwR6IoY
-
-* Neue Datei in home erstellen.
+* Neue Datei in `Home of Server` erstellen.
+* Bilder
+    * [Rahmen](https://openclipart.org/search/?query=border)
+    * Download und einfügen: `*.png` verwenden
+    * Rechtsklick auf Bild: Umlauf
+    * Proportionales Skalieren mit der Shift-Taste
+    * Drehen mit *LibreOffice Draw*
 * Writer
     * Schriftart, Größe, Farben
-    * Fontwork
-* Bilder
-    * [Rahmen]
-    * Download und einfügen: *.png verwenden
-    * Rechtsklick auf Bild: Umlauf
+    * Format/Objekt/Fontwork
 
-[openclipart.org]: https://openclipart.org/
-[Rahmen]: https://openclipart.org/search/?query=border
+
+### PL: Browser-Bedienung
+
+* Erläuterung der Adressleiste (Strg+L)
+
+* Tastatur(-kombinationen) im Browser
+    + Bildlauf
+    + Pos1
+    + Ende
+    + Tabulator
+    + Alt
+    + Strg+T
+    + Strg+W

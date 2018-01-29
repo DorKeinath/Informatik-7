@@ -1,7 +1,7 @@
 # Inhalt
 
 * Informatik Klasse 7
-  * [Einstieg](Einstieg.md)
+  * [Einstieg in Informatik](Einstieg.md)
   * [Daten und Codierung](daten_und_codierung.md)
   * [Grafikcodierung](Grafikcodierung.md)
   * [Algorithmen](algorithmen.md)
