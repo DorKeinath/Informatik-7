@@ -1,16 +1,10 @@
-<!-- TOC depthFrom:1 depthTo:1 withLinks:1 updateOnSave:0 orderedList:0 -->
+<!-- TOC depthFrom:1 depthTo:2 withLinks:1 updateOnSave:0 orderedList:0 -->
 
 - [Daten und Codierung](#daten-und-codierung)
-	- [Einstieg: Codierte Kommunikation](#einstieg-codierte-kommunikation)
-	- [Bridge](#bridge)
-	- [GA: Beispiele für Codierungen](#ga-beispiele-für-codierungen)
-	- [PL: Binärzahlen](#pl-binärzahlen)
+	- [Beispiele für Codes und ihre Vor- und Nachteile](#beispiele-für-codes-und-ihre-vor-und-nachteile)
+	- [Binärzahlen](#binärzahlen)
 	- [Textcodierung](#textcodierung)
 	- [Grafikcodierung](#grafikcodierung)
-		- [Computer und Binärcode](#computer-und-binärcode)
-		- [Pixel](#pixel)
-		- [HO](#ho)
-		- [PL: Vektorgrafiken](#pl-vektorgrafiken)
 
 <!-- /TOC -->
 
@@ -18,20 +12,22 @@
 
 Siehe Skript.
 
-## Einstieg: Codierte Kommunikation
+## Beispiele für Codes und ihre Vor- und Nachteile
+
+### Einstieg: Codierte Kommunikation
 Siehe Moodle-Material *Kommunikationskarten zum Warmup*
 
-## Bridge
+### Bridge
 [Fipronil](https://de.wikipedia.org/wiki/Fipronil)
 
-## GA: Beispiele für Codierungen
+### GA: Beispiele für Codierungen
 
 * QR-Code
 * Eier-Code
 * Blindenschrift
 * Morse-Code
 
-## PL: Binärzahlen
+## Binärzahlen
 
 ## Textcodierung
 
