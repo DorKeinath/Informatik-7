@@ -3,7 +3,6 @@
 * Informatik Klasse 7
   * [Einstieg in Informatik](Einstieg.md)
   * [Daten und Codierung](daten_und_codierung.md)
-  * [Grafikcodierung](Grafikcodierung.md)
   * [Algorithmen](algorithmen.md)
   * [Rechner und Netze](rechner_und_netze.md)
   * [Informationelle Selbstbestimmung](Informationelle_Selbstbestimmung.md)
