@@ -50,12 +50,10 @@ Ich zeige Unterschiede zwischen einer txt- und odt-Datei.*
 
 ## Hardware, Software und Dateiarten
 *In EA oder PA mit anschließender Besprechung: [HO](HO_Hardware_Software_Datei-Endungen.md).*
-* Vorsicht bei *.exe, *.bat und *.js! Bekommt man ein solche Datei gesendet, handelt es sehr wahrscheinlich um ein Virus.
+* Vorsicht bei *.exe, *.bat und *.js! Bekommt man ein solche Datei gesendet, handelt es sehr wahrscheinlich um einen Virus.
 
 ## Hausaufgabe
 *"Mit mp3-Dateien befassen wir uns das nächste Mal."*
 
 * Kopfhörer und
 * Handy-Kabel mitbringen.
-
-

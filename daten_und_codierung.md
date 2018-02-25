@@ -22,12 +22,30 @@ Siehe Moodle-Material *Kommunikationskarten zum Warmup*
 
 ### GA: Beispiele für Codierungen
 
-* QR-Code
 * Eier-Code
+* Strichcode, Barcode, EAN-13
+* QR-Code
 * Blindenschrift
 * Morse-Code
 
+[Prüfziffer beim Strichcode](https://de.wikipedia.org/wiki/European_Article_Number)
+
+[QR-Code-Generator](http://goqr.me/de/)
+
+[Aufbau des QR-Codes](http://www.computerbild.de/artikel/cb-Tipps-Wissen-QR-Codes-Barcode-EAN-6122468.html)
+
+[QR-Code von Hand erstellen](https://blauerbildschirm.wordpress.com/2012/03/05/wie-ein-qr-code-codiert-wird-turtorial-qr-code-encoding-tutorial/)
+
 ## Binärzahlen
+
+[Wie funktioniert ein Computer?](https://www.youtube.com/watch?v=5PJZz04JGjs)
+
+> Was könnte [das](http://haubergs.com/bc) sein?
+
+[Online Umrechner](http://www.arndt-bruenner.de/mathe/scripts/Zahlensysteme.htm)
+[WolframAlpha](http://www.wolframalpha.com/input/?i=11_2)
+
+> Es gibt 10 Gruppen von Menschen: diejenigen, die das Binärsystem verstehen, und die anderen.
 
 ## Textcodierung
 
