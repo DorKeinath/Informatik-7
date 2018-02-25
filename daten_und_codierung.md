@@ -34,7 +34,7 @@ Siehe Moodle-Material *Kommunikationskarten zum Warmup*
 
 [Aufbau des QR-Codes](http://www.computerbild.de/artikel/cb-Tipps-Wissen-QR-Codes-Barcode-EAN-6122468.html)
 
-[QR-Code von Hand erstellen](https://blauerbildschirm.wordpress.com/2012/03/05/wie-ein-qr-code-codiert-wird-turtorial-qr-code-encoding-tutorial/)
+
 
 ## Binärzahlen
 
@@ -43,11 +43,13 @@ Siehe Moodle-Material *Kommunikationskarten zum Warmup*
 > Was könnte [das](http://haubergs.com/bc) sein?
 
 [Online Umrechner](http://www.arndt-bruenner.de/mathe/scripts/Zahlensysteme.htm)
+
 [WolframAlpha](http://www.wolframalpha.com/input/?i=11_2)
 
 > Es gibt 10 Gruppen von Menschen: diejenigen, die das Binärsystem verstehen, und die anderen.
 
 ## Textcodierung
+[QR-Code von Hand erstellen](https://blauerbildschirm.wordpress.com/2012/03/05/wie-ein-qr-code-codiert-wird-turtorial-qr-code-encoding-tutorial/) Vorsicht: Enthält einige Fehler. Bessere Quelle: [Wikipedia](https://de.wikipedia.org/wiki/QR-Code#Umwandeln_des_Textes_in_eine_Bitfolge)
 
 ## Grafikcodierung
 
