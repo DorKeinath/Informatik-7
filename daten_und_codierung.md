@@ -49,6 +49,10 @@ Siehe Moodle-Material *Kommunikationskarten zum Warmup*
 > Es gibt 10 Gruppen von Menschen: diejenigen, die das Binärsystem verstehen, und die anderen.
 
 ## Textcodierung
+UTF-8 ist in den ersten 128 Zeichen mit ASCII identisch. Es ist eine Kodierung der Unicode-Zeichen, also aller möglichen Schriftzeichen. Es gibt Zeichenketten bis zu einer Länge von vier Byte.
+
+SP = Space
+
 [QR-Code von Hand erstellen](https://blauerbildschirm.wordpress.com/2012/03/05/wie-ein-qr-code-codiert-wird-turtorial-qr-code-encoding-tutorial/) Vorsicht: Enthält einige Fehler. Bessere Quelle: [Wikipedia](https://de.wikipedia.org/wiki/QR-Code#Umwandeln_des_Textes_in_eine_Bitfolge)
 
 ## Grafikcodierung
